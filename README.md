@@ -14,22 +14,25 @@ Right Eye Detection:
 Captures a live webcam feed to detect the right eye of individuals, using a dedicated Haar Cascade Classifier for right eyes. Detected right eyes are marked with yellow rectangles.
 
 🔧 Libraries and Tools Used:
-Python
 
-OpenCV
+•	Python
 
-Haar Cascade XML files for face, eye, and car detection
+•	OpenCV
+
+•	Haar Cascade XML files for face, eye, and car detection
 
 🚀 How to Run:
-Install OpenCV: pip install opencv-python
 
-Download the required Haar Cascade XML files from the OpenCV GitHub repository or use the ones provided in the project directory.
+•	Install OpenCV: pip install opencv-python
 
-Adjust the file paths for Haar Cascade XMLs and video file as needed.
+•	Download the required Haar Cascade XML files from the OpenCV GitHub repository or use the ones provided in the project directory.
 
-Run each script individually for respective detections.
+•	Adjust the file paths for Haar Cascade XMLs and video file as needed.
+
+•	Run each script individually for respective detections.
 
 📝 Usage:
-Press 'q' to quit the detection window.
 
-Ensure the video feed or video file is available and accessible.
+•	Press 'q' to quit the detection window.
+
+•	Ensure the video feed or video file is available and accessible.
